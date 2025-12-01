@@ -1,2 +1,3 @@
 # DSA_JAVA_SOLUTIONS
-Basic solutions for Data Structure and Algorithms in Java
+Your go-to Java starter pack! 🚀
+Beginner-level Java programs + essential DSA implementations to sharpen logic, boost coding confidence, and level up your developer journey.
